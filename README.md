@@ -19,8 +19,9 @@ if you'd prefer, for starters, you can use these loops(just download, unzip, and
     ..turn 'enc2' slightly clockwise so that the 'Loops:' parameter is highlighted on the screen of your norns, then hold down k2 for longer than 0.2 seconds.
 
 The app will start to play files starting from the first in the folder(you can start from a different file by first using enc2 to highlight 'File:...', then use enc3 to scroll to the file-title of choice, and finally hold down k2 as described above to start from there).
-    ###### holding down k2 for longer than 0.2 seconds toggles playback on/off
-    ###### (tapping k2 on/off within 0.2 seconds toggles a 'beat-scramble' effect(rhythmically jumpcuts playback position at random times until start of next loop))
+
+###### holding down k2 for longer than 0.2 seconds toggles playback on/off
+###### (tapping k2 on/off within 0.2 seconds toggles a 'beat-scramble' effect(rhythmically jumpcuts playback position at random times until start of next loop))
 
 The 'FileDiv' parameter(short for 'file divisions') assigns how many quarter notes fall within the duration of that particular file. 
 
