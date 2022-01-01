@@ -14,7 +14,7 @@ if you'd prefer, for starters, you can use these loops(just download, unzip, and
 
 
 ## Quick-start:
-1) after install, select and run 'smoke_n_mirrors' from the norns menu(or with 'smoke_n_mirrors.lua' selected, click the play icon to the upper-right in maiden)
+1) after install, select and run 'smoke_n_mirrors' from the norns menu(or in maiden, with 'smoke_n_mirrors.lua' selected, click the play icon to the upper-right)
 2) first, 'enc2' allows you to select/hilite various parameter-elements of the UI, for which you use 'enc3' to alter..
     ..turn 'enc2' slightly clockwise so that the 'Loops:' parameter is highlighted on the screen of your norns, then hold down k2 for longer than 0.2 seconds.
 
