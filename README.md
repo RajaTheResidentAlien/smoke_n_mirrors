@@ -6,6 +6,7 @@ based on an audio-file/clip-launcher, this norns app will gather information fro
 ## Install: 
 from within maiden, under the 'matron' tab, enter the following line:
 > ;install https://github.com/RajaTheResidentAlien/smoke_n_mirrors
+
    additionally, you need to have audio files(clips/loops) within a subfolder of the 'audio' folder on your norns: 
       the subfolder should be called, "ll" (just 2 'l's - no quotes)
 if you'd prefer, for starters, you can use these loops(just download, unzip, and drop straight into the 'dust/audio' folder of your norns) from my debut album: ["Earthlings Are Creepy(Pt.2)"](http://rajarez.net/eac/ll.zip)
