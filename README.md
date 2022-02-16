@@ -9,8 +9,8 @@ from within maiden, under the 'matron' tab, enter the following line:
 
    additionally, you need to have audio files(clips/loops) within a subfolder of the 'audio' folder on your norns: 
       the subfolder should be called, "ll" (just 2 'l's - no quotes)
-if you'd prefer, for starters, you can use these loops(just download, unzip, and drop straight into the 'dust/audio' folder of your norns) from my debut album: ["Earthlings Are Creepy(Pt.2)"](http://rajarez.net/eac/ll.zip)
-(they're prepared in the exact way necessary for file titles to feed the app information about sequencing through those files, so they make a good starting example)
+if you'd prefer, for starters, you can use these [loops](http://rajarez.net/eac/ll.zip)(just download, unzip, and drop straight into the 'dust/audio' folder of your norns) 
+they're prepared in the exact way necessary for file titles to feed the app information about sequencing through those files, so they're a good starting example
 
 
 ## Quick-start:
